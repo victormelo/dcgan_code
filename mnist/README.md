@@ -10,3 +10,4 @@ Libs you'll need installed/configured to run it:
 - scipy
 - matplotlib
 - tqdm
+- pandas
